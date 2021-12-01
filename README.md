@@ -1,5 +1,13 @@
 # meaningful
-A personal project makes your world a better place
+A personal project makes your world a better place:
+
+Persona Website - an online portfolio
+wants:
+- interactive on scroll (animation)
+- detect timezones? maybe show time difference? or adapts to the viewers timezone? (day/night theme)
+- work like an online shop so it has an AI chatbox
+- makesure you don't break any laws
+
 
 ---
 

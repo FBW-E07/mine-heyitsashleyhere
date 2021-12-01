@@ -4,9 +4,10 @@ A personal project makes your world a better place:
 Persona Website - an online portfolio
 wants:
 - interactive on scroll (animation)
+- the countdown timer in your HTML&CSS final project (when you will finish DCI program)
 - detect timezones? maybe show time difference? or adapts to the viewers timezone? (day/night theme)
-- work like an online shop so it has an AI chatbox
-- makesure you don't break any laws
+- do a parady of an online shop so maybe have an AI chatbox
+- make sure you don't break any laws
 
 
 ---

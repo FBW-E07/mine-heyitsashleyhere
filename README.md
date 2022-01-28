@@ -1,13 +1,10 @@
-# meaningful
-A personal project makes your world a better place:
+# Tell Your Fortune
+A interactive fortune teller that has animation effects:
 
-Persona Website - an online portfolio
-wants:
-- interactive on scroll (animation)
-- the countdown timer in your HTML&CSS final project (when you will finish DCI program)
-- detect timezones? maybe show time difference? or adapts to the viewers timezone? (day/night theme)
-- do a parady of an online shop so maybe have an AI chatbox
-- make sure you don't break any laws
+- lever to pull to select topics: relationship, career, darkmagic...
+- cyrstal ball to show output
+- when loading, the color should dim, glow, zoom in and out
+- an input area?
 
 
 ---
